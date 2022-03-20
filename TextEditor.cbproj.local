@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.702,=D:\C++ builder\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.817,C:\Users\user\Desktop\Курсовая работа\TextEditor.cbproj=D:\C++ builder\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.200,D:\C++ builder\HelpForm.h=D:\C++ builder\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.241,=D:\C++ builder\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.572,D:\C++ builder\MainForm.dfm=D:\C++ builder\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.770,C:\Users\user\Desktop\Курсовая работа\TextEditorPCH1.h=D:\C++ builder\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.572,D:\C++ builder\MainForm.h=D:\C++ builder\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.793,D:\C++ builder\Project1.cbproj=D:\C++ builder\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.200,D:\C++ builder\HelpForm.dfm=D:\C++ builder\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.572,D:\C++ builder\MainForm.cpp=D:\C++ builder\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.200,D:\C++ builder\HelpForm.cpp=D:\C++ builder\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.350,=D:\C++ builder\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.577,=D:\C++ builder\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.047,=D:\C++ builder\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
